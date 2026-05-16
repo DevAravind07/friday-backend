@@ -19,7 +19,7 @@ from prompt import (
     AGENT_RESPONSE,
 )
 
-load_dotenv(".env.local")
+load_dotenv()
 
 
 class Assistant(Agent):
