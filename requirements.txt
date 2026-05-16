@@ -13,7 +13,6 @@ cffi==2.0.0
 charset-normalizer==3.4.7
 click==8.3.3
 colorama==0.4.6
-comtypes==1.4.16
 cryptography==48.0.0
 distro==1.9.0
 docstring_parser==0.18.0
@@ -66,17 +65,13 @@ protobuf==6.33.6
 psutil==7.2.2
 pyasn1==0.6.3
 pyasn1_modules==0.4.2
-PyAudio==0.2.14
 pycparser==3.0
 pydantic==2.13.4
 pydantic_core==2.46.4
 Pygments==2.20.0
 PyJWT==2.12.1
 pyparsing==3.3.2
-pypiwin32==223
 python-dotenv==1.2.2
-pyttsx3==2.99
-pywin32==311
 requests==2.34.0
 rich==15.0.0
 shellingham==1.5.4
