@@ -36,6 +36,10 @@ async def entrypoint(ctx: JobContext):
 
         llm=google.realtime.RealtimeModel(
 
+            model="gemini-2.0-flash-exp",
+
+            modalities=["TEXT"],
+
             voice="Erinome",
 
             temperature=0.8,
